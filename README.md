@@ -1,8 +1,8 @@
-# Gerardo Robert Carmona González
+# Gerardo Roberto Carmona González
 
 ### Senior Android Developer
 
-Android developer with 14+ years of experience building mobile and TV applications for consumer and enterprise platforms. I specialize in modernizing legacy codebases, architecting scalable solutions, and delivering high-quality applications across smartphones, tablets, and TV devices.
+Sr. Android developer with 14+ years of experience building mobile and TV applications for consumer and enterprise platforms. I specialize in modernizing legacy codebases, architecting scalable solutions, and delivering high-quality applications across smartphones, tablets, and TV devices.
 
 ---
 
