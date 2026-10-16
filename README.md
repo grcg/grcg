@@ -93,13 +93,10 @@ Extended the EngageME library for location-based engagement and indoor wayfindin
 
 | Company | Role | Year |
 |---------|------|------|
-| M&T Bank | Lead Android Developer | 2026 – Present |
-| Brightwood Technologies | Senior Android Software Developer | 2024 – 2025 |
-| American Honda Motors | Senior Mobile Developer | 2023 – 2024 |
-| McDonald's | Senior Android Developer | 2021 – 2023 |
-| Medtronic | Mobile Engineer | 2018 – 2021 |
-| Sasktel International | Android Developer | 2022 – 2023 |
+| Brightwood Technologies | Senior Android Software Developer | 2026 – Present |
+| McDonald's | Senior Android Developer | 2024 – 2025 |
 | Macropay | Senior Android Developer | 2023 – 2024 |
+| Sasktel International | Android Developer | 2022 – 2023 |
 | Umba | Senior Android Developer | 2021 – 2022 |
 | OnX | Android Developer | 2020 |
 | Lixar | Android Developer | 2019 |
